@@ -81,8 +81,7 @@
 [![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")
 
 
-[<img src="https://www.youtube.com/channel/UC54BMw17bQV4a5N_zLysb1A"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/TRDC Token?sub_confirmation=1)
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
