@@ -101,11 +101,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#196] in [TRDC-TOKEN/github-readme-streak-stats](https://github.com/traderscoin-tokenTRDC/github-readme-streak-stats)
-2. ❗️ Opened issue [#25] in [TRDC-TOKEN/table2ascii](https://github.com/DenverCoder1/table2ascii)
-3. 🎉 Merged PR [#56]() in [TRDC-TOKEN/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
-4. 💪 Opened PR [#56]() in [TRDC-TOKEN/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
-5. 🎉 Merged PR [#55]() in [TRDC-TOKEN/Advent-of-Code-2021](https://github.com/DenverCoder1/Advent-of-Code-2021)
+1. ❗️ Opened issue [#196] in [TRDC-TOKEN/github-readme-streak-stats]
+2. ❗️ Opened issue [#25] in [TRDC-TOKEN/table2ascii]
+3. 🎉 Merged PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
+4. 💪 Opened PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
+5. 🎉 Merged PR [#55] in [TRDC-TOKEN/Advent-of-Code-2021]
 <!--END_SECTION:activity-->
 </details>
 
