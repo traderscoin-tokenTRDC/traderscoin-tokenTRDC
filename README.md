@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=we-are%20here%20to%20help%20your-grow;your-profit%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=we-are%20here%20to%20help%20your-grow;your-profit%20your succeed"></a>
 </p>
 
 <!-- Social icons section -->
