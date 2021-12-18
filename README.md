@@ -80,7 +80,7 @@
 [![Custom Help Commands [#1] Embeds - Python Discord Bot](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://www.youtube.com/watch?v=TzR8At0SFQI "Custom Help Commands [#1] Embeds - Python Discord Bot")
 [![Assigning Roles with Buttons - Python Discord Bot Tutorial](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=jMeOejBy8Hc "Assigning Roles with Buttons - Python Discord Bot Tutorial")
 
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/TRDC Token?sub_confirmation=1)
 
 ## 📊 Github stats
 
