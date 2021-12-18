@@ -102,10 +102,9 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#196] in [TRDC-TOKEN/github-readme-streak-stats]
-2. ❗️ Opened issue [#25] in [TRDC-TOKEN/table2ascii]
-3. 🎉 Merged PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
-4. 💪 Opened PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
-5. 🎉 Merged PR [#55] in [TRDC-TOKEN/Advent-of-Code-2021]
+2. 🎉 Merged PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
+3. 💪 Opened PR [#56] in [TRDC-TOKEN/Advent-of-Code-2021]
+4. 🎉 Merged PR [#55] in [TRDC-TOKEN/Advent-of-Code-2021]
 <!--END_SECTION:activity-->
 </details>
 
