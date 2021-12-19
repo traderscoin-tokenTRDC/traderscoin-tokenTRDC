@@ -60,24 +60,6 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-## 🛠️ TRDC PARTNERS
-
-
-<div align="center" >
-  
-<p> 
-   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-   
- </p>
-</div>
-
-
-<p>
-
-</p>
-
-
-
 ## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
